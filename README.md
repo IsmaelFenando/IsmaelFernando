@@ -1,7 +1,7 @@
 ### Olá, eu sou o Ismael Fernando👋
 
+ 💻 Apaixonado pela área de tecnologia, sobretudo automação de processos, analise de dados e desenvolvimento web e fascinado pelas soluções que as linhas de códigos podem proporcionar.<br/>
  💻 Atualmente estou aprendendo HTML, CSS e JS. <br/>
- 💻 Pretendo me tornar em breve desenvolvedor Front-end.
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5561998271751)
