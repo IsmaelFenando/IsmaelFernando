@@ -1,7 +1,7 @@
 ### Olá, eu sou o Ismael Fernando👋
 
  💻 Atualmente estou aprendendo HTML, CSS e JS. <br/>
- 💻 Pretendo me tornar desenvolvedor Front-end.
+ 💻 Pretendo me tornar em breve desenvolvedor Front-end.
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5561998271751)
